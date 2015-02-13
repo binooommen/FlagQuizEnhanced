@@ -21,6 +21,7 @@
     <string name="default_region">North_America</string>
     <string name="amount_right_first">%1$d correct on first guess</string>
     <string name="score_string">You have gotten %1$d points</string>
+    <string name="wikipedia">Wikipedia Link</string>
     <string name="next_question">Next Flag</string>
     
 </resources>

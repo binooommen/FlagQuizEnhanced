@@ -39,8 +39,8 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int action_settings=0x7f0c0014;
-        public static final int answerTextView=0x7f0c0013;
+        public static final int action_settings=0x7f0c0015;
+        public static final int answerTextView=0x7f0c0014;
         public static final int button1=0x7f0c0007;
         public static final int button2=0x7f0c0008;
         public static final int button3=0x7f0c0009;
@@ -54,12 +54,13 @@ public final class R {
         public static final int fragment1=0x7f0c0001;
         public static final int fragment2=0x7f0c0002;
         public static final int guessCountryTextView=0x7f0c0005;
-        public static final int nextFlagButton=0x7f0c0012;
+        public static final int nextFlagButton=0x7f0c0013;
         public static final int questionNumberTextView=0x7f0c0003;
         public static final int quizFragment=0x7f0c0000;
         public static final int row1LinearLayout=0x7f0c0006;
         public static final int row2LinearLayout=0x7f0c000a;
         public static final int row3LinearLayout=0x7f0c000e;
+        public static final int wikipediaButton=0x7f0c0012;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
@@ -79,7 +80,7 @@ public final class R {
         public static final int hello_world=0x7f090001;
         public static final int image_description=0x7f09000f;
         public static final int incorrect_answer=0x7f090009;
-        public static final int next_question=0x7f090013;
+        public static final int next_question=0x7f090014;
         public static final int number_of_choices=0x7f090004;
         public static final int number_of_choices_descriptions=0x7f090005;
         public static final int ok=0x7f09000c;
@@ -89,6 +90,7 @@ public final class R {
         public static final int results=0x7f090008;
         public static final int score_string=0x7f090012;
         public static final int settings_activity=0x7f090003;
+        public static final int wikipedia=0x7f090013;
         public static final int world_regions=0x7f090006;
     }
     public static final class style {
